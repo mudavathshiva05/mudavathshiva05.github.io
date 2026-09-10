@@ -11,7 +11,7 @@
 html {
     scroll-behavior: smooth;
 }
-
+https://github.com/mudavathshiva05/mudavathshiva05.github.io/edit/main/style.css
 body {
     background: #050505;
     color: #ffffff;
@@ -950,7 +950,7 @@ footer span {
 /* Reduce gap between Hero and About Me on mobile */
 @media (max-width: 768px) {
     #about {
-        margin-top: -180px !important;
-        padding-top: 60px !important;
+        margin-top: -160px !important;
+        padding-top: 50px !important;
     }
 }
